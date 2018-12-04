@@ -84,9 +84,13 @@ public class MainActivity extends AppCompatActivity {
         return super.onOptionsItemSelected(item);
     }
 
-    public void mac()
+    public int mac()
     {
-
+        return 2;
+    }
+    public String linux()
+    {
+        return  "linux";
     }
 
     /**
