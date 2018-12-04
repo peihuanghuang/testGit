@@ -84,6 +84,11 @@ public class MainActivity extends AppCompatActivity {
         return super.onOptionsItemSelected(item);
     }
 
+    public void mac()
+    {
+
+    }
+
     /**
      * A placeholder fragment containing a simple view.
      */
