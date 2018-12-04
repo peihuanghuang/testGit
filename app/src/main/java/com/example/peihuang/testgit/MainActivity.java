@@ -88,9 +88,9 @@ public class MainActivity extends AppCompatActivity {
     {
         return 2;
     }
-    public void linux()
+    public String linux()
     {
-
+        return  "linux";
     }
 
     /**
