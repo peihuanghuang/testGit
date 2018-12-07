@@ -92,6 +92,10 @@ public class MainActivity extends AppCompatActivity {
     {
         return  "linux";
     }
+    public void mac1()
+    {
+        
+    }
 
     /**
      * A placeholder fragment containing a simple view.
