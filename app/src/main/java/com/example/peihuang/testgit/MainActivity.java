@@ -92,7 +92,7 @@ public class MainActivity extends AppCompatActivity {
     {
         return  "linux";
     }
-    public void mac1()
+    public void mac2()
     {
         
     }
