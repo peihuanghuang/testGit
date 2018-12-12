@@ -96,6 +96,10 @@ public class MainActivity extends AppCompatActivity {
     {
         
     }
+    public void mac3()
+    {
+
+    }
 
     /**
      * A placeholder fragment containing a simple view.
