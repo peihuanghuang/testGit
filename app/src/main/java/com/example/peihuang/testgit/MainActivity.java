@@ -96,6 +96,10 @@ public class MainActivity extends AppCompatActivity {
     {
         
     }
+    public void macBranch()
+    {
+
+    }
 
     /**
      * A placeholder fragment containing a simple view.
