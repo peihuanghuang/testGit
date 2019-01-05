@@ -96,7 +96,11 @@ public class MainActivity extends AppCompatActivity {
     {
         
     }
-    public void mac3()
+    public void macBranch()
+    {
+
+    }
+    public void macBranch1()
     {
 
     }
